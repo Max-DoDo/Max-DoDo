@@ -21,7 +21,7 @@
   - Use Java swing as the UI framework.
   - A lot of code looks like a mountain of shit. Please __DO NOT__ watch the code after dinner.
 
-## Some thing for the reader
+## Something for the reader
 
 Thank you for taking your time to read this file.
 
