@@ -25,14 +25,4 @@
 
 Thank you for taking your time to read this file.
 
-I think, You must be a intersting and patience person.
-
-If I could. I would love to meet you in the reality.
-
-But the world is too big. Sometimes the things do not go the way we want them go.
-
-So I offer you my best wishes as all I can do for you now:
-
-No matter what country you are in, male or female, what ethnic group, what story you had. I bless you, the person who setting behind the screen
-
 Have a nice day!❤
