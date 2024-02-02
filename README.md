@@ -1,9 +1,9 @@
 ## Hi I am Max!😘
 
 - I am now a student at University of Sussex UK.
-- I am writing something with Java.
+- I'm trying to write some programs in java or c# now.
 - Most of them are useless. But I am trying to make them looks better and more interesting.
-- I welcome every questions, discussions and ideas with any topics.
+- I welcome all questions, discussions and ideas with any topics.
 - For contact me:
   - E-Mail: great_maxwell@outlook.com
   - Wechat: Great_Maxwell
