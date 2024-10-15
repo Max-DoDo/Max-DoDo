@@ -1,5 +1,6 @@
 ## Hi This is Max!😘
 
+- **This is the account I use for school projects, please contact me for my personal account.**
 - I am currently a student at the University of Sussex in UK.
 - I'm trying to write some programs in java and c# right now.
 - Most of them are totally useless. But I am trying to make them looks better and more interesting.
