@@ -1,8 +1,8 @@
 ## Hi This is Max!😘
 
-- **This is the account I use for school projects, please contact me for my personal account.**
+- **This is the account I use for school projects, please contact me for visit my personal account.**
 - I am currently a student at the University of Warwick in UK.
-- I'm trying to write some programs in java and c# right now.
+- I'm trying to write some programs in java and python right now.
 - Most of them are totally useless. But I am trying to make them looks better and more interesting.
 - I welcome all questions, discussions, ideas and abuse with any topics.
 - For contact me:
@@ -22,6 +22,12 @@
   - Use Java swing as the UI framework.
   - A lot of code looks like a mountain of shit. Please __DO NOT__ watch the code after dinner. I'm not responsible for your vomiting.
   - Do not continue to update in this account.
+### 2.[Student-Wellbeing-System](https://github.com/Max-DoDo/Student-Wellbeing-System)
+  - A python project running in Windows and Mac.
+  - This is a group assignment.
+  - It provides a way to manage student information.
+  - It also features lightweight data analysis and reporting.
+  - Thanks for all the members of my team for their contributions. You can find their detailed GitHub pages in this project's readme file.
 
 ## Something for the reader
 
