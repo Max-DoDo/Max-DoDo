@@ -1,33 +1,35 @@
-## Hi This is Max!😘
+## Hi, this is Max! 😘
 
-- **This is the account I use for school projects, please contact me for visit my personal account.**
-- I am currently a student at the University of Warwick in UK.
-- I'm trying to write some programs in java and python right now.
-- Most of them are totally useless. But I am trying to make them looks better and more interesting.
-- I welcome all questions, discussions, ideas and abuse with any topics.
-- For contact me:
-  - E-Mail: great_maxwell@outlook.com
-  - Wechat: Great_Maxwell
-  - QQ: 1172558575
-  - Mobile number in UK: +44 07551180643
-  - Mobile number in China: +86 15617701184
+- This is the account I mainly use for school projects. Please contact me if you'd like to visit my personal GitHub account.
+- I am currently a student at the University of Warwick in the UK.
+- I'm currently learning and building programs in Java and Python.
+- Most of them are probably not very useful, but I'm trying to make them look better, work better, and hopefully become a little more interesting.
+- I welcome questions, discussions, ideas, and criticism on any topic.
+  
+### Contact
 
-  You are welcome to contact me in any of the ways above. However, I might be shy when you call me...
+You can contact me via:
 
-## Intro of my repo
+- E-mail: [great_maxwell@outlook.com](mailto:great_maxwell@outlook.com)
+- WeChat: Great_Maxwell
+- QQ: 1172558575
+You are welcome to contact me in any of the ways above.
+
+## Introduction to My Repositories
 
 ### 1.[Max-Box](https://github.com/CallOfTheNight/Max-Box)
 
-  - A java project running in Windows only that trying to imitate the function of Microsoft Outlook and Microsoft TO-DO.
-  - Use Java swing as the UI framework.
-  - A lot of code looks like a mountain of shit. Please __DO NOT__ watch the code after dinner. I'm not responsible for your vomiting.
-  - Do not continue to update in this account.
+- A Java project that runs on Windows and attempts to imitate some of the functionality of Microsoft Outlook and Microsoft To Do.
+- Uses Java Swing as the UI framework.
+- A lot of the code looks like a mountain of shit. Please **DO NOT** read it after dinner. I'm not responsible for any vomiting.
+- This project is no longer maintained on this account.
+- 
 ### 2.[Student-Wellbeing-System](https://github.com/Max-DoDo/Student-Wellbeing-System)
-  - A python project running in Windows and Mac.
-  - This is a group assignment.
-  - It provides a way to manage student information.
-  - It also features lightweight data analysis and reporting.
-  - Thanks for all the members of my team for their contributions. You can find their detailed GitHub pages in this project's readme file.
+- A Python project that runs on both Windows and macOS.
+- Developed as a group assignment.
+- Provides tools for managing student information.
+- Also includes lightweight data analysis and reporting features.
+- Thanks to all the members of my team for their contributions. You can find links to their GitHub profiles in the project's README file.
 
 ## Something for the reader
 
